@@ -1,4 +1,4 @@
-```
+
 navbar:
   left:
     - text: "Home"
@@ -17,4 +17,3 @@ output:
     toc: true
     toc_float:
       collapsed: false
-```
